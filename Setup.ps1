@@ -6,4 +6,6 @@
 .\Chocolatey\InstallChocolatey.ps1
 .\Chocolatey\InstallChocolateyPackages.ps1
 
+.\Developer\InitializeDotfiles.ps1
+
 Write-Output "Setup complete! Please reboot your PC."
